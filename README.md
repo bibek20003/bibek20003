@@ -1,4 +1,8 @@
-# 💫 Hi 👋, I'm Bibek Thakur
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=300&center=true&vCenter=true&color=00C9A7&width=435&lines=%F0%9F%92%AB+Hi+%F0%9F%91%8B%2C+I'm+Bibek+Thakur" alt="Typing SVG" />
+</p>
+
+
 **A passionate Data Scientist || Prompt Engineer**
 
 Email Me 👉 ✉️ **bibekthkaur2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊

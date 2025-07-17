@@ -9,9 +9,9 @@ Email Me 👉 ✉️ **bibekthkaur2003@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently pursuing my B-tech in Computer Science Engineering (AI/Ml)** 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** bibekthakur2003@gmail.com
-- 😄 **Pronouns:** Bibek Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)

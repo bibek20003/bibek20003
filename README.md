@@ -7,8 +7,7 @@
 
 Email Me 👉 ✉️ **bibekthkaur2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently pursuing my B-tech:** 
-- 🌱 **I’m currently learning:** Computer Science Engineering (AI)
+- 🔭 **I’m currently pursuing my B-tech in Computer Science Engineering (AI/Ml)** 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** bibekthakur2003@gmail.com
 - 😄 **Pronouns:** Bibek Sir

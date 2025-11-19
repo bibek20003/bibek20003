@@ -3,7 +3,7 @@
 </p>
 
 
-** Aspiring AI/ML Engineer|| Prompt Engineer**
+** Aspiring AI/ML Engineer **
 
 Email Me 👉 ✉️ **bibekthkaur2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
